@@ -1,0 +1,15 @@
+/*!
+ * Package Template Style v.0.0.0
+ * Author JetDesainNet (08998693766)
+ * License under CC (http://jetdesain.net/thema/lisensi)
+ * Copyright (c) 2024, JetDesainNet
+ * 
+*/
+
+*,
+:after,
+:before {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box
+}
